@@ -8,5 +8,6 @@ http://nbviewer.jupyter.org/github/mechatronicsguy/PythonNotebooks/blob/master/S
 ![](https://github.com/mechatronicsguy/PythonNotebooks/blob/master/plots/spherical%20example%20v01.png)
 
 <p align="center">
-  <img src="https://github.com/mechatronicsguy/PythonNotebooks/blob/master/plots/spherical%20example%20v01.png" width="350" title="spherical harmonics">
+  <a>
+  <img src="https://github.com/mechatronicsguy/PythonNotebooks/blob/master/plots/spherical%20example%20v01.png" width="350" title="spherical harmonics"></a>
 </p>
